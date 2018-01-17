@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Сhecking.AddResistanceBox">
+    <Position X="4.5" Y="4.25" Width="3.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MEBAAwGzjCAFQBAEAAiIBoXCmAAkBAAKAWIIIcEAAEA=</HashCode>
+      <FileName>AddResistanceBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Сhecking.ExportDataToExсel" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExportDataToOffice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Сhecking.ExportDataToWord" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAUAAAEAAAAAAAAAAAQAAAIAAAAAAA=</HashCode>
+      <FileName>ExportDataToOffice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Сhecking.Form1">
+    <Position X="18.75" Y="1.5" Width="6.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="Сhecking.Form1.MeasureDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ESToFgOpBWhIohqKdF3oLhESQBg7YwJgsGYqEYQbJyQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Сhecking.Program" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Сhecking.Protocol">
+    <Position X="9" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IAAABAAAACLABRgCAACABACCEAAAAAAACCAIAACFAAA=</HashCode>
+      <FileName>Protocol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Сhecking.ResistanceBoxes" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAACAAgAAAEAAAUAAAAAAAEAABAAAAAAAgAAAAAACA=</HashCode>
+      <FileName>ResistanceBoxes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Сhecking.ResistanceBox" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAIAAAACACAAAIAAKBEBgAAAEAAAACEgAAgAEAQA=</HashCode>
+      <FileName>ResistanceBoxes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Сhecking.ResistanceBox2">
+    <Position X="0.5" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAACAAAAAAABABgAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResistanceBoxes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Сhecking.Formuls" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAQAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResistanceBoxes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Сhecking.TheConclusionAboutUnfitnessForm">
+    <Position X="10.25" Y="2" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAQAAACCAQRBGAACABBCCMAAAAgAECAAAAAAAACA=</HashCode>
+      <FileName>TheConclusionAboutUnfitnessForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Сhecking.TheСertificateOnCheckingForm">
+    <Position X="4" Y="1" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>QCAhCAAAASSABACCAAKABADCMAAAAEAAEAAJAAAAAIA=</HashCode>
+      <FileName>TheСertificateOnCheckingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checking.Properties.Resources">
+    <Position X="0.5" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checking.Properties.Settings">
+    <Position X="3.75" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAQAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

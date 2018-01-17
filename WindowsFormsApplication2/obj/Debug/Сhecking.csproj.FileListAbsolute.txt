@@ -1,0 +1,80 @@
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csprojResolveAssemblyReference.cache
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csproj.ResolveComReference.cache
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csproj.GenerateResource.Cache
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.exe.config
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.xml
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.exe
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.pdb
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.Properties.Resources.resources
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.exe
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.pdb
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.AddResistanceBox.resources
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.Form1.resources
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.Protocol.resources
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.TheConclusionAboutUnfitnessForm.resources
+e:\к 2 му диплому\prog\на диплом\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.TheСertificateOnCheckingForm.resources
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.exe.config
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.xml
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csproj.ResolveComReference.cache
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.exe
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.pdb
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.exe
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.pdb
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csprojResolveAssemblyReference.cache
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.AddResistanceBox.resources
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.Form1.resources
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.Properties.Resources.resources
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.Protocol.resources
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.TheConclusionAboutUnfitnessForm.resources
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.TheСertificateOnCheckingForm.resources
+g:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csproj.GenerateResource.Cache
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.exe.config
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.xml
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csproj.ResolveComReference.cache
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.exe
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.pdb
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.exe
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.pdb
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csprojResolveAssemblyReference.cache
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.AddResistanceBox.resources
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.Form1.resources
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.Properties.Resources.resources
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.Protocol.resources
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.TheConclusionAboutUnfitnessForm.resources
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.TheСertificateOnCheckingForm.resources
+e:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csproj.GenerateResource.Cache
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.exe.config
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.xml
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csproj.ResolveComReference.cache
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.exe
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.pdb
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.exe
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.pdb
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csprojResolveAssemblyReference.cache
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.AddResistanceBox.resources
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.Form1.resources
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.Properties.Resources.resources
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.Protocol.resources
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.TheConclusionAboutUnfitnessForm.resources
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.TheСertificateOnCheckingForm.resources
+h:\к 2 му диплому\prog\14.0.2014\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csproj.GenerateResource.Cache
+e:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.exe.config
+e:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.xml
+e:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csproj.ResolveComReference.cache
+e:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.exe
+e:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.pdb
+e:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csprojResolveAssemblyReference.cache
+e:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.AddResistanceBox.resources
+e:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.Form1.resources
+e:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Checking.Properties.Resources.resources
+e:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.Protocol.resources
+e:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.TheConclusionAboutUnfitnessForm.resources
+e:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.TheСertificateOnCheckingForm.resources
+e:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Сhecking.csproj.GenerateResource.Cache
+e:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.exe
+e:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Checking.pdb
+e:\Сhecking\WindowsFormsApplication2\bin\Debug\Checking.exe.config
+e:\Сhecking\WindowsFormsApplication2\bin\Debug\Checking.xml
+e:\Сhecking\WindowsFormsApplication2\obj\Debug\Сhecking.csproj.ResolveComReference.cache
+e:\Сhecking\WindowsFormsApplication2\obj\Debug\Checking.exe
+e:\Сhecking\WindowsFormsApplication2\obj\Debug\Checking.pdb

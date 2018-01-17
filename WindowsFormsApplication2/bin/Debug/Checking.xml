@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Checking</name>
+    </assembly>
+    <members>
+        <member name="F:Сhecking.AddResistanceBox.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Сhecking.AddResistanceBox.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Сhecking.AddResistanceBox.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Сhecking.ExportDataToWord.InsertNullRes(Microsoft.Office.Interop.Word.Table,System.Collections.Generic.List{System.Double},System.Int32)">
+            <summary>
+            Вставка данных о нулевом сопротивлении в таблицу
+            </summary>
+            <param name="table">Таблица в которую производится вставка</param>
+            <param name="li">Лист с данными</param>
+            <param name="rowIndex">Номер строки для вставки</param>
+        </member>
+        <member name="M:Сhecking.ExportDataToWord.ReplaceTextInShape(System.String,System.String,Microsoft.Office.Interop.Word.Shape)">
+            <summary>
+            Метод поиска и замены одной строки на другую в надписях
+            </summary>
+            <param name="_findText">Строка которую нужно заменить</param>
+            <param name="_replaceWith">Строка которой нужно заменить</param>
+            <param name="Sh">Надпись, в которой производится замена</param>
+        </member>
+        <member name="M:Сhecking.ExportDataToWord.ReplaceTextInDocument(System.String,System.String,Microsoft.Office.Interop.Word.Document)">
+            <summary>
+            Метод поиска и замены одной строки на другую в документе
+            </summary>
+            <param name="_findText">Строка которую нужно заменить</param>
+            <param name="_replaceWith">Строка которой нужно заменить</param>
+            <param name="Doc">Документ в котором производится замена</param>
+        </member>
+        <member name="M:Сhecking.Form1.AvailablePort">
+            <summary>
+            Метод проверки доступности COM портов
+            </summary>
+            <returns> Возвращает true если найден хотя бы один порт, иначе false.</returns>
+        </member>
+        <member name="F:Сhecking.Form1.components">
+            <summary>
+            Требуется переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:Сhecking.Form1.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:Сhecking.Form1.InitializeComponent">
+            <summary>
+            Обязательный метод для поддержки конструктора - не изменяйте
+            содержимое данного метода при помощи редактора кода.
+            </summary>
+        </member>
+        <member name="M:Сhecking.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="F:Сhecking.Protocol.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Сhecking.Protocol.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Сhecking.Protocol.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Сhecking.ResistanceBoxes">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Сhecking.ResistanceBoxes.GetListOfResistanceBoxes">
+            <summary>
+            Список магазинов сопротивления
+            </summary>
+        </member>
+        <member name="M:Сhecking.ResistanceBoxes.DefaultDevice">
+            <summary>
+            Список магазинов сопротивления по умолчанию
+            </summary>
+        </member>
+        <member name="M:Сhecking.ResistanceBoxes.AddRb(Сhecking.ResistanceBox)">
+            <summary>
+            Добавляет новый магазин сопротивления в список
+            </summary>
+            <param name="res">Добавляемый магазин сопротивления</param>
+        </member>
+        <member name="M:Сhecking.ResistanceBoxes.Replace(System.Int32,Сhecking.ResistanceBox)">
+            <summary>
+            Заменяет магазин сопротивления с указанным индексом
+            </summary>
+            <param name="index"></param>
+            <param name="res"></param>
+        </member>
+        <member name="M:Сhecking.ResistanceBoxes.ShowModel(System.Windows.Forms.ListBox)">
+            <summary>
+            Отображает список магазинов сопротивления в указанном компоненте ListBox
+            </summary>
+            <param name="L"></param>
+        </member>
+        <member name="M:Сhecking.ResistanceBoxes.ClearList">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Сhecking.ResistanceBoxes.SaveToFile(System.IO.StreamWriter)">
+            <summary>
+            Сохраняет список магазинов
+            </summary>
+            <param name="file"></param>
+        </member>
+        <member name="F:Сhecking.TheConclusionAboutUnfitnessForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Сhecking.TheConclusionAboutUnfitnessForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Сhecking.TheConclusionAboutUnfitnessForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:Сhecking.TheСertificateOnCheckingForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Сhecking.TheСertificateOnCheckingForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Сhecking.TheСertificateOnCheckingForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Checking.Properties.Resources">
+            <summary>
+              Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+            </summary>
+        </member>
+        <member name="P:Checking.Properties.Resources.ResourceManager">
+            <summary>
+              Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+            </summary>
+        </member>
+        <member name="P:Checking.Properties.Resources.Culture">
+            <summary>
+              Перезаписывает свойство CurrentUICulture текущего потока для всех
+              обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+            </summary>
+        </member>
+        <member name="P:Checking.Properties.Resources.t22">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>
